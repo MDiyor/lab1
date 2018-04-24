@@ -1,0 +1,14 @@
+body{
+	background-color: rgb(124,252,0);
+}
+h1{
+	text-align:center;
+}
+h2{
+	font-family: Courier;
+	color:red;
+}
+ul{
+	font-family: Verdana;
+	color:blue;
+}
